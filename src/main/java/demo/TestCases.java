@@ -1,5 +1,7 @@
 package demo;
 
+import java.beans.Transient;
+
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
